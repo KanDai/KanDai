@@ -1,6 +1,9 @@
-### Hi there 👋
-
-![kandai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kandai&show_icons=true&locale=en)
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kandai&count_private=true&show_icons=true" alt="kandai's GitHub Stats" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandai&layout=compact" alt="Most Used Languages" />
+</span>
 
 <!--
 **KanDai/KanDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
